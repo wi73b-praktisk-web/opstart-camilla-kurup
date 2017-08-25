@@ -16,9 +16,14 @@ Hvis ikke der havde været skrevet plinger rundt om "Camilla" havde den troet at
 
 Der må derfor heller ikke være plinger rundt om **fornavn** for så ville den tro at det er en tekst som skal tildeles.
 
+## Oveskrivning af eksisterende variabler
 ```js
+//opretter variablen
 var fornavn = "Camilla";
-
+//overskriver variablen (ingen var foran ved overskrivning)
 fornavn = "sebastian";
-
 ```
+
+## cheat sheat
+
+https://github.com/wi73b-praktisk-web/opstart-camilla-kurup/blob/master/Cheat_Sheet_01.js
